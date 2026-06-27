@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ExpensesTracker</string>
+    <string name="title_expenses_tracker">Expenses Tracker 📊</string>
+    <string name="label_total_balance">Total Balance 💰</string>
+    <string name="label_total_expense">Total Expense 💸</string>
+    <string name="label_total_income">Total Income 💲</string>
+    <string name="default_amount">BDT: 0.0</string>
+    <string name="btn_add_expense">Add Expense</string>
+    <string name="btn_add_income">Add Income</string>
+    <string name="btn_show_all_data">Show Data</string>
+    <string name="btn_overall_data">Overall Data</string>
+    <string name="title_overall_list">Overall Records</string>
+
+    <string name="title_add_data">Add Data</string>
+    <string name="title_add_expense">Add Expense</string>
+    <string name="title_add_income">Add Income</string>
+    <string name="hint_amount">Amount</string>
+    <string name="hint_reason">Reason</string>
+    <string name="btn_save_data">Save Data</string>
+
+    <string name="title_expense_list">Expense List</string>
+    <string name="title_income_list">Income List</string>
+    <string name="title_data_list">Data List</string>
+
+    <string name="msg_expense_added">Expense Added</string>
+    <string name="msg_income_added">Income Added</string>
+    <string name="msg_fill_fields">Please fill all fields</string>
+    <string name="amount_format">BDT: %s</string>
+    <string name="label_reason">Reason</string>
+    <string name="label_amount">Amount</string>
+    <string name="label_date">Date</string>
+</resources>
